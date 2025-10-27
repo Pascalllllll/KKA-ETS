@@ -1,3 +1,6 @@
 [submodule "Artificial Intelligence Concepts/KKA-ETS/Wordle-Solver"]
 	path = Artificial Intelligence Concepts/KKA-ETS/Wordle-Solver
 	url = https://github.com/lyoneloliver/Wordle-Solver.git
+[submodule "Artificial Intelligence Concepts/Midterm"]
+	path = Artificial Intelligence Concepts/Midterm
+	url = https://github.com/lyoneloliver/Wordle-Solver.git
